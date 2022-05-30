@@ -1,0 +1,28 @@
+2022-02-27 11:32:04,705 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:50] Starting LoggerTest on DESKTOP-GMIFDR4 with PID 8156 (started by Administrator in E:\java_kenan\workspace_ideal\communtiy\communtiy)
+2022-02-27 11:32:04,706 INFO [main] c.n.c.LoggerTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2022-02-27 11:32:08,527 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:32:08,945 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2022-02-27 11:32:09,271 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:59] Started LoggerTest in 5.718 seconds (JVM running for 8.997)
+2022-02-27 11:32:09,998 INFO [main] c.n.c.LoggerTest [LoggerTest.java:27] info logger
+2022-02-27 11:32:10,008 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:38:14,513 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:50] Starting LoggerTest on DESKTOP-GMIFDR4 with PID 17988 (started by Administrator in E:\java_kenan\workspace_ideal\communtiy\communtiy)
+2022-02-27 11:38:14,517 INFO [main] c.n.c.LoggerTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2022-02-27 11:38:18,540 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:38:18,931 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2022-02-27 11:38:19,229 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:59] Started LoggerTest in 6.28 seconds (JVM running for 11.842)
+2022-02-27 11:38:19,789 INFO [main] c.n.c.LoggerTest [LoggerTest.java:27] info logger
+2022-02-27 11:38:19,803 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:40:56,569 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:50] Starting LoggerTest on DESKTOP-GMIFDR4 with PID 9280 (started by Administrator in E:\java_kenan\workspace_ideal\communtiy\communtiy)
+2022-02-27 11:40:56,569 INFO [main] c.n.c.LoggerTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2022-02-27 11:41:02,598 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:41:03,361 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2022-02-27 11:41:03,880 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:59] Started LoggerTest in 7.791 seconds (JVM running for 10.2)
+2022-02-27 11:41:04,376 INFO [main] c.n.c.LoggerTest [LoggerTest.java:27] info logger
+2022-02-27 11:41:04,407 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:41:10,973 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:50] Starting LoggerTest on DESKTOP-GMIFDR4 with PID 12328 (started by Administrator in E:\java_kenan\workspace_ideal\communtiy\communtiy)
+2022-02-27 11:41:10,975 INFO [main] c.n.c.LoggerTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2022-02-27 11:41:13,293 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-27 11:41:13,541 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2022-02-27 11:41:13,780 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:59] Started LoggerTest in 3.381 seconds (JVM running for 4.724)
+2022-02-27 11:41:13,969 INFO [main] c.n.c.LoggerTest [LoggerTest.java:27] info logger
+2022-02-27 11:41:13,976 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
